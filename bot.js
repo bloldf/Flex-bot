@@ -2221,4 +2221,4 @@ if (message.content.startsWith(prefix + 'نقاطي')) {
 /////////////////////////////////////////////////////////////////////////ALPHA / ALPHA CODES / ALPHA CODES///////////////////////////
 
 
-client.login(process.env.BOT_TOKEN);
+client.login(NjEzNDA5MzkwMDQ4OTY4ODgw.XV1iMQ.n2tfu7upHGkPGGJcVqboGicsd_U);
