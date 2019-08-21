@@ -1,2 +1,2 @@
-# plus
-plus bot
+# Flex bot
+Flex bot
